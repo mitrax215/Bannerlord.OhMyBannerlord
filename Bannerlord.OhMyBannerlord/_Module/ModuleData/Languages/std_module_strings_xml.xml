@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="English" />
+	</tags>
+	<strings>
+		<string id="OhMyBannerlord.b5527329" text="Fog of war"/>
+		<string id="OhMyBannerlord.4f8e20f7" text="Heroes"/>
+		<string id="OhMyBannerlord.6d91efcd" text="Settlements"/>
+		<string id="OhMyBannerlord.6ffb53b3" text="It allows the player to get to know all the heroes."/>
+		<string id="OhMyBannerlord.42c2da62" text="It allows the player to explore all the settlements."/>
+	</strings>
+</base>

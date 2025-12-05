@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="English" />
+	</tags>
+	<strings>
+		<string id="OhMyBannerlord.b5527329" text="Savaş sisi"/>
+		<string id="OhMyBannerlord.4f8e20f7" text="Kahramanlar"/>
+		<string id="OhMyBannerlord.6d91efcd" text="Yerleşkeler"/>
+		<string id="OhMyBannerlord.6ffb53b3" text="Oyuncunun tüm kahramanları tanımasını sağlar."/>
+		<string id="OhMyBannerlord.42c2da62" text="Oyuncunun tüm yerleşim yerlerini tanımasını sağlar."/>
+	</strings>
+</base>
